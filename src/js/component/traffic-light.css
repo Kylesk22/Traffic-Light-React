@@ -1,0 +1,65 @@
+.container {
+    border-radius: 20px;
+
+    width: 200px;
+   
+    text-align: center;
+    border: solid black 1px;
+    background-color: black;
+}
+
+.light1 {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+
+    margin: auto;
+    margin-top: 20px;
+    background-color: red;
+    /* box-shadow: 10px 10px 20px red, -10px 10px 20px red, -10px -10px 20px red, 10px -10px 20px red ; */
+
+}
+.light2 {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+   
+    margin: auto;
+    margin-top: 20px;
+    background-color: yellow;
+    /* box-shadow: 10px 10px 20px yellow, -10px 10px 20px yellow, -10px -10px 20px yellow, 10px -10px 20px yellow ; */
+}
+.light3 {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+
+    margin: auto;
+    margin-top: 20px;
+    background-color: green;
+    /* box-shadow: 10px 10px 20px green, -10px 10px 20px green, -10px -10px 20px green, 10px -10px 20px green ; */
+}
+
+.light4 {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+
+    margin: auto;
+    margin-top: 20px;
+    background-color: purple;
+}
+
+#button1 {
+    width: 100px;
+    height: 60px;
+    margin: 10px;
+}
+
+.pole {
+    width: 20px;
+    height: 60px;
+    text-align: center;
+    background-color: black;
+    margin: auto;
+}
